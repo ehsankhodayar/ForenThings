@@ -38,6 +38,7 @@ ForenThings/
 ├─ example/              # how to use ForenThings?
 ├─ forenlog/             # core parsing module for processing raw collected logs
 ├─ frontend/             # UI for interactive analysis
+├─ .gitignore            # ignored git files
 ├─ requirements.txt      # installed python packages and their versions
 ├─ LICENSE               # the ForenThings license
 ├─ main.py               # entry point (CLI launcher)
