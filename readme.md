@@ -72,20 +72,6 @@ To experiment with ForenThings, download the prepared datasets from [Google Driv
 unzip ForenThings_datasets.zip -d forenthings_datasets/
 ```
 
-### Run a Demo
-
-```bash
-# CLI timeline build
-python main.py ingest --src examples/case01 \
-  && python main.py build-graph --case examples/case01 \
-  && python main.py export --case examples/case01 --fmt html --out out/case01
-
-# Launch interactive UI (if available)
-python main.py ui --case examples/case01 --port 5000
-```
-
-The UI exposes timeline/graph views, event filters, and manual merge/split tools.
-
 ## Using ForenThings
 
 ### CLI
