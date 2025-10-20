@@ -8,7 +8,7 @@
   <a href="https://github.com/ehsankhodayar/ForenThings/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-informational"></a>
   <a href="https://www.python.org/downloads/"><img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-blue"></a>
   <a href="https://github.com/ehsankhodayar/ForenThings"><img alt="Status" src="https://img.shields.io/badge/status-📦_public_release-brightgreen"></a>
-  <a href="#citation"><img alt="DOI" src="https://img.shields.io/badge/DOI-10.1145/3772067-orange"></a>
+  <a href="https://doi.org/10.1145/3772067"><img alt="DOI" src="https://img.shields.io/badge/DOI-10.1145/3772067-orange"></a>
   <a href="https://dl.acm.org/journal/tiot"><img alt="Venue" src="https://img.shields.io/badge/ACM%20TIOT-Accepted-9cf"></a>
 </p>
 
