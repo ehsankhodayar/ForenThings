@@ -191,6 +191,5 @@ See the [LICENSE](LICENSE) file for the full text.
 
 ## Acknowledgments
 
-[//]: # (This work was supported by *\[funders/grants]* and built on *\[dependencies/tools]*.)
-TBD
+The authors thank the anonymous reviewers for their valuable comments. This material is based upon work supported by the Natural Sciences and Engineering Research Council of Canada (NSERC) under the Discovery Grant and NSERC/FRQNT NOVA Program.
 
