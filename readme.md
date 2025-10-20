@@ -115,7 +115,7 @@ To access our evaluation results, please use the link below:
 
 ## Citation
 
-Please cite the paper if you use ForenThings: TBD
+Please cite the paper if you use ForenThings:
 
 <div class="highlight highlight-text-bibtex notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">@inproceedings</span>{<span class="pl-en">kim:2020:firmae</span>,
   <span class="pl-s">author</span> = <span class="pl-s"><span class="pl-pds">{</span>Ehsan Khodayarseh and Sofya Smolyakova and Lianying Zhao and Armin Mansouri and Suryadipta Majumdar and Mauro Conti<span class="pl-pds">}</span></span>,
